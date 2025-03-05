@@ -28,6 +28,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-sharma-35158434b)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shruticonnected)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=connectshruti&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connectshruti&layout=compact&theme=radical)
 <!--
 **connectshruti/connectshruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
